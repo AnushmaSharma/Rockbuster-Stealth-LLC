@@ -14,7 +14,7 @@ The Rockbuster Stealth LLC Online Expansion Analysis aims to provide data-driven
 ## Data & Tools Used
 The analysis was conducted using Rockbuster's relational database management system, powered by PostgreSQL. The dataset provides comprehensive information on Rockbuster's operations, including film inventory, customer demographics, payment transactions, store locations, staff details, film information, actor profiles, rental history, and customer addresses. Data handling and SQL queries were performed using pgAdmin 4 and PostgreSQL, while Tableau Public was utilized for visualizing key insights and trends.
 
-**Visualizations**
+## Visualizations
 Additional visualizations created in Tableau Public are available here:
 [https://public.tableau.com/app/profile/anushma.sharma/viz/Top10CountriesbyCustomerNumbers/Sheet1?publish=yes]
 [https://public.tableau.com/app/profile/anushma.sharma/viz/Top10CitiesbyCustomerCount/Sheet1?publish=yes]
