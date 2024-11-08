@@ -1,23 +1,18 @@
-# SQLAnushma
-**Rockbuster Stealth Data Analysis Project**
-This repository contains SQL scripts for analyzing **Rockbuster Stealth LLC**'s movie rental data to support the company’s launch of an online video rental service. Key analyses focus on identifying revenue-generating movies, understanding customer demographics, and analyzing geographic sales patterns. This project demonstrates SQL skills in data extraction, filtering, joining, and creating visualizations for business insights.
+# Rockbuster Stealth Data Analysis Project
 
-**Rockbuster Stealth Data Analysis Project**
-This project was created as part of Achievements 3, aiming to provide data-driven insights for Rockbuster Stealth LLC, a movie rental company launching an online video rental service. Using SQL, we analyzed the company’s database to address strategic questions for business planning.
+## Project Summary
+The Rockbuster Stealth LLC Online Expansion Analysis aims to provide data-driven insights to help Rockbuster, a former leader in physical movie rentals, transition to an online rental platform. Facing competition from major streaming services, Rockbuster’s goal is to leverage existing data to optimize content offerings, pricing strategies, and target specific markets to drive engagement and revenue growth.
 
-**Data Set**
+## Key Questions
 
-Source: The Rockbuster dataset includes tables on movies, rentals, customers, and payments, sourced internally from the company’s operational database.
+1. Which customer segments should Rockbuster target for retention and growth?
+2. How can Rockbuster optimize rental pricing and durations?
+3. What regions offer the highest potential for expanding the customer base and revenue?
+4. Which countries and cities have the most customers?
+5. What movies and genres generate the most revenue?
 
-Description: The data contains records of movie rentals, customer information, revenue details, and other relevant attributes to provide insights on performance and customer demographics.
-
-**Key Analysis Topics**
-
-Revenue Analysis: Identifying top revenue-generating movies.
-
-Customer Demographics: Analyzing geographic and demographic information on high-value customers.
-
-Regional Sales Patterns: Comparing revenue trends across different regions.
+## Data & Tools Used
+The analysis was conducted using Rockbuster's relational database management system, powered by PostgreSQL. The dataset provides comprehensive information on Rockbuster's operations, including film inventory, customer demographics, payment transactions, store locations, staff details, film information, actor profiles, rental history, and customer addresses. Data handling and SQL queries were performed using pgAdmin 4 and PostgreSQL, while Tableau Public was utilized for visualizing key insights and trends.
 
 **Visualizations**
 Additional visualizations created in Tableau Public are available here:
